@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Joohyeong's%20Git&fontSize=80)
 
-### Hi there 👋
 
 <!--
 **gangjoohyeong/gangjoohyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,12 +18,12 @@ Here are some ideas to get you started:
 ## ⚡  학위
 ***
 <h3>동국대학교, 통계학과 (이학사)</h3>
-##### 동국대학교, 데이터사이언스소프트웨어 (데이터사이언스소프트웨어학사)
+<h3> 동국대학교, 데이터사이언스소프트웨어 (데이터사이언스소프트웨어학사) </h3>
 
 
 
 ### ⚡  자격증
 ***
-##### 빅데이터분석기사
-##### 데이터분석준전문가 (ADsP)
-##### SQL 개발자 (SQLD)
+<h3>빅데이터분석기사</h3>
+<h3>데이터분석준전문가(ADsP)
+<h3>SQL 개발자 (SQLD)</h3>
