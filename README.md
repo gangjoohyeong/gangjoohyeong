@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Joohyeong's%20Git&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JOOHYEONG's%20git&fontSize=80)
 
 ## ⚡ 학위
 <h3>2023.02</h3>
