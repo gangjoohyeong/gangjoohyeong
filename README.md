@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JOOHYEONG's%20git&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=JOOHYEONG's%20git&fontSize=80)
 
 ## ⚡ 학위
 
