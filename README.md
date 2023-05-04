@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=JOOHYEONG's%20Github&fontSize=80)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kics4948)](https://solved.ac/kics4948/)
+
 ## ⚡ 학위
 
 <h3>2023.02</h3>
