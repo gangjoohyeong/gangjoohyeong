@@ -6,7 +6,7 @@
   
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://bles.tistory.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gangjoohyeong/)
-[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joohyeong-kang-31ba29267/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joo-hyeong-kang-31ba29267/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bles@kakao.com)
 
 </div>
