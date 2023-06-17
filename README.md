@@ -49,5 +49,7 @@
 <br>
 <br>
 <div align=center>
+  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kics4948)](https://solved.ac/kics4948/)
+
 </div>
