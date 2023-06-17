@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=JOOHYEONG's%20GitHub&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=150&section=header&text=JOOHYEONG's%20GitHub&fontSize=50)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kics4948)](https://solved.ac/kics4948/)
 
