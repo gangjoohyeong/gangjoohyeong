@@ -12,7 +12,7 @@
 
 <br>
 
-<h3 align="center">📄 Certificate</h3>
+<h3 align="center">✔ Certificate</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/빅데이터분석기사-2022.07-FFD700?style=flat-square" alt="빅데이터 분석기사">
@@ -22,7 +22,7 @@
 
 <br>
 
-<h3 align="center">⚡ Skill</h3>
+<h3 align="center">⚔ Skill</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
@@ -32,7 +32,7 @@
 
 <br>
 
-<h3 align="center">✍ Studying</h3>
+<h3 align="center">✏ Studying</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js">
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
@@ -40,7 +40,7 @@
 </p>
 
 <br>
-<h3 align="center">👨‍💻 Problem Solving</h3>
+<h3 align="center">💻 Problem Solving</h3>
 <p align="center">
 <div align="center">
   
