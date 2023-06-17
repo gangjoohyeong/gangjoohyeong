@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=darkgray&height=120&section=header&text=JOOHYEONG's&desc=GitHub&fontSize=40&rotate=10&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
 
 
-<h2 align="center">🎓 Education</h2>
+<h3 align="center">🎓 Education</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/boostcamp AI Tech-5기-9932CC?style=flat-square" alt="boostcamp AI Tech: 5기">
@@ -12,7 +12,7 @@
 
 <br>
 
-<h2 align="center">📄 Certificate</h2>
+<h3 align="center">📄 Certificate</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/빅데이터분석기사-2022.07-FFD700?style=flat-square" alt="빅데이터 분석기사">
@@ -22,7 +22,7 @@
 
 <br>
 
-<h2 align="center">⚡ Skill</h2>
+<h3 align="center">⚡ Skill</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
@@ -32,7 +32,7 @@
 
 <br>
 
-<h2 align="center">✍ Studying</h2>
+<h3 align="center">✍ Studying</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js">
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
@@ -40,7 +40,7 @@
 </p>
 
 <br>
-<h2 align="center">👨‍💻 Problem Solving</h2>
+<h3 align="center">👨‍💻 Problem Solving</h3>
 <p align="center">
 <div align="center">
   
