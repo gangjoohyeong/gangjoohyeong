@@ -1,7 +1,18 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=darkgray&height=120&section=header&text=JOOHYEONG's&desc=GitHub&fontSize=40&rotate=10&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=120&section=header&text=JOOHYEONG's&desc=GitHub&fontSize=50&rotate=10&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
 
+<br><br>
+<div align="center">
+  
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joohyeong-kang-31ba29267/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gangjoohyeong/)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://bles.tistory.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bles@kakao.com)
 
-<h3 align="center">🎓 Education</h3>
+</div>
+
+<br>
+
+<h1 align="center">🎓 Education</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/boostcamp AI Tech-5기-9932CC?style=flat-square" alt="boostcamp AI Tech: 5기">
@@ -12,7 +23,7 @@
 
 <br>
 
-<h3 align="center">✔ Certificates</h3>
+<h1 align="center">✔ Certificates</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/빅데이터분석기사-2022.07-FFD700?style=flat-square" alt="빅데이터 분석기사">
@@ -22,7 +33,7 @@
 
 <br>
 
-<h3 align="center">⚔ Skills</h3>
+<h1 align="center">⚔ Skills</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
@@ -32,7 +43,7 @@
 
 <br>
 
-<h3 align="center">✏ Studying</h3>
+<h1 align="center">✏ Studying</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js">
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
@@ -40,7 +51,7 @@
 </p>
 
 <br>
-<h3 align="center">💻 Problem Solving</h3>
+<h1 align="center">💻 Problem Solving</h1>
 <p align="center">
 <div align="center">
   
