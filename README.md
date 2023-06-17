@@ -12,7 +12,7 @@
 
 <br>
 
-<h3 align="center">✔ Certificate</h3>
+<h3 align="center">✔ Certificates</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/빅데이터분석기사-2022.07-FFD700?style=flat-square" alt="빅데이터 분석기사">
@@ -22,7 +22,7 @@
 
 <br>
 
-<h3 align="center">⚔ Skill</h3>
+<h3 align="center">⚔ Skills</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
