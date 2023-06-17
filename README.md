@@ -16,7 +16,7 @@
 <h1 align="center">🎓 Education</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/boostcamp AI Tech-5기-9932CC?style=flat-square" alt="boostcamp AI Tech: 5기">
+  <img src="https://img.shields.io/badge/boostcamp AI Tech-RecSys-9932CC?style=flat-square" alt="boostcamp AI Tech: RecSys">
   <br>
   <img src="https://img.shields.io/badge/통계학과-학사-2E8B57?style=flat-square" alt="통계학과: 학사">
   <img src="https://img.shields.io/badge/데이터사이언스소프트웨어-학사-2E8B57?style=flat-square" alt="데이터사이언스소프트웨어: 학사">
