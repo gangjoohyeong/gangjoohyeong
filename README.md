@@ -11,7 +11,7 @@
 
 <br>
 
-<h2 align="center">📄 Certification</h2>
+<h2 align="center">📄 Certificate</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/빅데이터분석기사-2022.07-FFD700?style=flat-square" alt="빅데이터 분석기사">
