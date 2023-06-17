@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=150&section=header&text=JOOHYEONG's%20GitHub&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=JOOHYEONG's&desc=GitHub&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kics4948)](https://solved.ac/kics4948/)
 
 ## ⚡ 학위
 
@@ -47,3 +46,8 @@
 - 제7기 대학생 통계교육 재능기부단 수료 | 통계청
 
 <br>
+<br>
+<br>
+<div align=center>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kics4948)](https://solved.ac/kics4948/)
+</div>
