@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=darkgray&height=120&section=header&text=JOOHYEONG's&desc=GitHub&fontSize=40&rotate=10&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
 
+<div style="line-height:10%">
+
 <h2 align="center">🎓 Education</h2>
 
 <p align="center">
@@ -47,3 +49,6 @@
   
 </div>
 </p>
+
+
+</div>
