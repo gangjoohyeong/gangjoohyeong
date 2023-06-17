@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=150&section=header&text=JOOHYEONG's&desc=GitHub&fontSize=50&fontColor=e9967a&rotate=10&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nanum+Gothic+Coding&weight=600&size=30&duration=1500&pause=1500&color=297CF7&center=true&vCenter=true&width=650&lines=Welcome+to+Joohyeong's+GitHub!;My+main+language+is+Python.;I'm+currently+in+Boostcamp+AI+Tech+5th.;I'm+interested+in+ML+and+web+development.)](https://git.io/typing-svg)</div>
 
 <br>
 <div align="center">
