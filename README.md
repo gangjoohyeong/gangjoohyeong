@@ -1,8 +1,7 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nanum+Gothic+Coding&weight=600&size=30&duration=1500&pause=1500&color=297CF7&center=true&vCenter=true&width=650&lines=Welcome+to+Joohyeong's+GitHub!;My+main+language+is+Python.;I'm+currently+in+Boostcamp+AI+Tech+5th.;I'm+interested+in+ML+and+web+development.)](https://git.io/typing-svg)</div>
-
-<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nanum+Gothic+Coding&weight=600&size=30&duration=2000&pause=1500&color=297CF7&center=true&vCenter=true&width=650&lines=Welcome+to+Joohyeong's+GitHub!;My+main+language+is+Python.;I'm+currently+in+Boostcamp+AI+Tech+5th.;I'm+interested+in+ML+and+web+development.)](https://git.io/typing-svg)
+<br><br>
 <div align="center">
   
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://bles.tistory.com/)
