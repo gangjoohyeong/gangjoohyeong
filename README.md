@@ -1,55 +1,49 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=JOOHYEONG's&desc=GitHub&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=darkgray&height=200&section=header&text=JOOHYEONG's&desc=GitHub&fontSize=40&rotate=10&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
 
+<h2 align="center">🎓 Education</h2>
 
-## ⚡ 학위
-
-<h3>2023.02</h3>
-- 동국대학교, 통계학과 (이학사)<br>
-- 동국대학교, 데이터사이언스소프트웨어 (데이터사이언스소프트웨어학사)
-
-<br>
-
-## ⚡  자격증
-
-<h3>2022.07</h3>
-- 빅데이터 분석기사
-
-<h3>2021.12</h3>
-- SQL 개발자 (SQLD)
-
-<h3>2021.09</h3>
-- 데이터 분석 준전문가 (ADsP)
+<p align="center">
+  <img src="https://img.shields.io/badge/boostcamp AI Tech-5기-9932CC?style=flat-square" alt="boostcamp AI Tech: 5기">
+  <br>
+  <img src="https://img.shields.io/badge/통계학과-학사-2E8B57?style=flat-square" alt="통계학과: 학사">
+  <img src="https://img.shields.io/badge/데이터사이언스소프트웨어-학사-2E8B57?style=flat-square" alt="데이터사이언스소프트웨어: 학사">
+</p>
 
 <br>
 
-## ⚡  교내활동
+<h2 align="center">📄 Certification</h2>
 
-<h3>2022.08 - 2023.02</h3>
-- 데이터사이언스소프트웨어연계전공 학생회장
+<p align="center">
+  <img src="https://img.shields.io/badge/빅데이터분석기사-2022.07-FFD700?style=flat-square" alt="빅데이터 분석기사">
+  <img src="https://img.shields.io/badge/SQL개발자(SQLD)-2021.12-FFD700?style=flat-square" alt="SQL 개발자 (SQLD)">
+  <img src="https://img.shields.io/badge/데이터분석준전문가(ADsP)-2021.09-FFD700?style=flat-square" alt="데이터 분석 준전문가 (ADsP)">
+</p>
 
-<h3>2022.03 - 2022.08</h3>
-- SW 융합동아리 Farm 시스템
+<br>
+
+<h2 align="center">⚡ Skill</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
+</p>
 
 <br>
 
-## ⚡  대외활동
-<h3>2023.03 - 2023.08</h3>
-- 부스트캠프 AI Tech 5기 수료 예정 | 네이버 커넥트재단
-
-<h3>2022.10 - 2022.11</h3>
-- 2022 데이터 크리에이터 캠프 우수상 | K-ICT 빅데이터 센터
-
-<h3>2021.10 - 2021.11</h3>
-- 2021 데이터 크리에이터 캠프 수료 | K-ICT 빅데이터 센터
-
-<h3>2021.04 - 2021.12</h3>
-- 제7기 대학생 통계교육 재능기부단 수료 | 통계청
+<h2 align="center">✍ Studying</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+</p>
 
 <br>
-<br>
-<br>
-<div align=center>
+<h2 align="center">👨‍💻 Problem Solving</h2>
+<p align="center">
+<div align="center">
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kics4948)](https://solved.ac/kics4948/)
-
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kics4948)](https://solved.ac/kics4948/)
+  
 </div>
+</p>
