@@ -51,10 +51,8 @@
 
 <br>
 <h1 align="center">💻 Problem Solving</h1>
-<p align="center">
-<div align="center">
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kics4948)](https://solved.ac/kics4948/)
-  
-</div>
+<p align="center">  
+ <a href="https://solved.ac/kics4948/">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kics4948" alt="Solved.ac Profile" height="120">
+</a>
 </p>
