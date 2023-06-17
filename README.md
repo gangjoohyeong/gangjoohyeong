@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=170&section=header&text=JOOHYEONG's&desc=GitHub&fontSize=50&fontColor=BDBDBD&rotate=10&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=170&section=header&text=JOOHYEONG's&desc=GitHub&fontSize=50&fontColor=e9967a&rotate=10&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
 
 <div align="center">
   
