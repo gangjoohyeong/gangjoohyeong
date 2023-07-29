@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&duration=2000&pause=1800&color=717171&background=6CFF8700&center=true&vCenter=true&width=500&lines=Welcome+to+Joohyeong's+GitHub!;My+main+language+is+Python.;I'm+currently+in+boostcamp+AI+Tech+5th.;I'm+interested+in+ML+and+web+development.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=REM&weight=300&duration=1500&pause=2000&color=929292&center=true&vCenter=true&width=450&lines=Welcome+to+Joohyeong's+GitHub!;My+main+Language+is+Python.;I'm+interested+in+ML+and+web+development.)](https://git.io/typing-svg)
 <br><br>
 <div align="center">
   
