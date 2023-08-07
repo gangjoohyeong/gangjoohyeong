@@ -4,9 +4,7 @@
 <br><br>
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-red?style=for-the-badge&logo=github)](https://gangjoohyeong.github.io/)
-
-
+[![Portfolio](https://img.shields.io/static/v1?label=Portfolio&message=Click&color=orange&style=for-the-badge&logo=buffer&logoColor=white)](https://gangjoohyeong.github.io/)
 
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://bles.tistory.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gangjoohyeong/)
