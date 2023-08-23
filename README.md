@@ -51,11 +51,3 @@
 
 <!--   <a href="https://wandb.ai/"><img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=white" alt="Weights & Biases"></a> -->
 </p>
-
-<br>
-<h1 align="center">💻 Problem Solving</h1>
-<p align="center">  
- <a href="https://solved.ac/kics4948/">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kics4948" alt="Solved.ac Profile" height="135">
-</a>
-</p>
