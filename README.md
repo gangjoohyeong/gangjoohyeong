@@ -1,6 +1,7 @@
 <h2>💡 Interests </h2>
 
 - <b>Natural Language Processing</b>
+- <b>Recommender System</b>
 - <b>Web Development</b>
 
 <h2>🚀 Experiences </h2>
