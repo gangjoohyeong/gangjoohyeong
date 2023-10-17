@@ -6,10 +6,11 @@
 
 <h2>🚀 Experiences </h2>
 
-- <b>boostcamp AI Tech 5th</b>, NAVER Connect Foundation | 2023.03 ~ 2023.08
-- <b>Statistics</b>, Dongguk University | 2021.03 ~ 2023.02
-- <b>Data Science Software</b>, Dongguk University | 2021.03 ~ 2023.02
-- <b>Software</b>, Anyang University | 2017.03 ~ 2021.02
+- <b>boostcamp AI Tech 5th</b>, NAVER Connect Foundation | 2023.08
+- <b>Bachelor of Science in Statistics</b>, Dongguk University | 2023.02
+- <b>Bachelor of Science in Data Science Software</b>, Dongguk University | 2023.02
+
+
 
 <h2>📜 Certificates</h1>
 
