@@ -20,6 +20,6 @@
 
 <h2>🌐 SNS</h2>
 
-&nbsp;&nbsp; [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gangjoohyeong/)
+&nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gangjoohyeong/)
 [![Tistory](https://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://bles.tistory.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gangjoohyeong/)
