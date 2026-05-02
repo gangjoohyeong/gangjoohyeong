@@ -1,8 +1,7 @@
 <h2>💡 Interests </h2>
 
-- <b>Software Engineering</b>
+- <b>AI Agent</b>
 - <b>Natural Language Processing</b>
-- <b>Recommender System</b>
 
 
 <h2>🚀 Experiences </h2>
